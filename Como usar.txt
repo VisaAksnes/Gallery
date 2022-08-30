@@ -1,0 +1,19 @@
+Este é um projeto React, por isso, precisa das dependências padrão do react e dos importes de terceiros
+para funcionar. Siga os passos para você conseguir abrir minha galeria:
+
+1 - Crie um novo projeto em react: npx create-react-app gallery
+
+2 - Feche o vs code (ou seja lá qual for seu editor) para você poder substituir arquivos
+
+3 - Entre na pasta/gallery que você criou e cole meus arquivos da galeria, substituindo oq precisar.
+
+Pronto, agora você tem minha galeria com as dependências do react, contudo, agora precisamos instalar os componentes de terceiros.
+
+1 - Abra novamente o vs code
+2 - Digite "cd gallery" no terminal para entrar na pasta do projeto, mas não o execute ainda!
+3 - Instale as dependências:
+
+npm install react-router-dom //Dependência de rotas
+npm install react-icons //Dependência de ícones
+
+Prontinho, agora basta digitar npm start para funcionar.
