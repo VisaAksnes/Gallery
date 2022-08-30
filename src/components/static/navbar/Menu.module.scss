@@ -1,0 +1,36 @@
+.menu{
+    display:flex;
+    background-color: black;
+    color:white;
+
+    .topTitle{
+        margin-left: 10px;
+    }
+
+    &_Ul{
+        width: 100%;
+        display: flex;
+        justify-content: flex-end;
+        max-width: 900px;
+        margin: 0 auto;
+        
+        
+    }
+    li{
+        margin-right: 20px;
+        padding:15px;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .topTitle{
+        display: none;
+    }
+    .menu_Ul{
+        width: 100%;
+        justify-content: space-evenly;
+        li{
+            margin:0px;
+        }
+    }
+}
