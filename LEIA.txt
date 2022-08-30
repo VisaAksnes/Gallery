@@ -1,3 +1,4 @@
+Por ser um projeto bem simples, não me dei ao trabalho de refatorar o código.
 Este é um projeto React, por isso, precisa das dependências padrão do react e dos importes de terceiros
 para funcionar. Siga os passos para você conseguir abrir minha galeria:
 
