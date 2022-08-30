@@ -5,7 +5,7 @@ para funcionar. Siga os passos para você conseguir abrir minha galeria:
 
 2 - Feche o vs code (ou seja lá qual for seu editor) para você poder substituir arquivos
 
-3 - Entre na pasta/gallery que você criou e cole meus arquivos da galeria, substituindo oq precisar.
+3 - Entre na pasta /gallery que você criou e cole meus arquivos do git, substituindo oq precisar.
 
 Pronto, agora você tem minha galeria com as dependências do react, contudo, agora precisamos instalar os componentes de terceiros.
 
@@ -17,3 +17,6 @@ npm install react-router-dom //Dependência de rotas
 npm install react-icons //Dependência de ícones
 
 Prontinho, agora basta digitar npm start para funcionar.
+
+PS1: O projeto está mais bem adaptado ao chrome!
+PS2: O site é bem simples, mas por favor, respeite a licença MIT!
